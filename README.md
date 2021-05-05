@@ -1,28 +1,14 @@
-<h1>Battleship Game in C++ (Batalla Naval en C++)</h1>
-<img src="https://i.ibb.co/cc3Nb8K/Captura-de-pantalla-de-2020-07-27-17-47-48.png">
-<p><b> English: </b> </p>
-<p><b> Español: </b> </p>
-<h1>Application Architecture (Arquitectura de la Aplicación)</h1>
+<h1>TL;DR for this repo:</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="100" width="100">
+<ul>
+  <li><h4>Technologies used:</h4>C++</li>
+  <li><h4>Approximate date:</h4>Second semester of 2017</li>
+  <li><h4>Purpose:</h4>This was the final project of the Object Oriented Programming course at college. By doing this i learned the basics of programming in C++, and the basics of OOP: inheritance, polymorphism, encapsulation and abstraction. It's the classic Battleship game, played Human VS Computer, where each one has a board, 0 means water, 1 means a ship without damage, 2 a ship partially damaged, a 3 a ship fully damaged.</li>
+  <li><h4>Preview:</h4></li>
+</ul>
 <p align="center">
-  <img src="https://i.ibb.co/zfBhrDM/Captura-de-pantalla-de-2020-07-27-17-54-23.png">
+    <img src="https://i.ibb.co/JQPtV9M/Screenshot-from-2021-05-04-18-55-52.png">
 </p>
-<p><b> English: </b></p>
-<p><b> Español: </b> </p>
-<ul>
-	<li><a href="#1-english">Go to English Documentation</a></li>
-	<li><a href="#2-spanish">Ir a la Documentación en Español</a></li>
-</ul>
-<h2 id="1-english">English Documentation</h3>
-<h3> What did I learn doing this project? </h2>
-<ul>
-	<li>a</li>
-</ul>
-<h4>Download and installation</h4>
-<h4>Usage</h4>
-<h2 id="2-spanish">Documentación en Español</h3>
-<h3> ¿Qué aprendí llevando a cabo este proyecto? </h2>
-<ul>
-	<li>a</li>
-</ul>
-<h4>Descarga e instalación</h4>
-<h4>Uso</h4>
+<p align="center">
+    <img src="https://i.ibb.co/pJ3vBLY/Screenshot-from-2021-05-04-18-56-04.png">
+</p>
