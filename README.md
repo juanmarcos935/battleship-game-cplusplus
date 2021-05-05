@@ -1,5 +1,5 @@
 <h1>TL;DR for this repo:</h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="100" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="100" width="90">
 <ul>
   <li><h4>Technologies used:</h4>C++</li>
   <li><h4>Approximate date:</h4>Second semester of 2017</li>
